@@ -1415,6 +1415,27 @@ a {
 .cid-sMX4lebOwC P {
   color: #ffffff;
 }
+.cid-sQihdS2nS7 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-sQihdS2nS7 .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-sQihdS2nS7 form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-sQihdS2nS7 form .mbr-section-btn .btn {
+  display: inline-flex;
+}
+@media (max-width: 991px) {
+  .cid-sQihdS2nS7 form .mbr-section-btn .btn {
+    width: 100%;
+  }
+}
 .cid-sMX9GdyUiE {
   padding-top: 30px;
   padding-bottom: 30px;
